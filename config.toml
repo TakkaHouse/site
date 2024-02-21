@@ -1,11 +1,23 @@
 # The URL the site will be built for
 base_url = "https://takka.house"
 
+title = "Takka House"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
+
+theme = "zola-bearblog"
+
+default_language = "en"
+
+[translations]
+no_posts = "No posts yet"
+remove_filter = "Remove filter"
+filtering_for = "Filtering for"
+made_with = "Made with"
 
 [markdown]
 # Whether to do syntax highlighting
@@ -14,3 +26,4 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+hide_made_with_line = true
