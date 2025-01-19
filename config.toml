@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://takka.house"
+base_url = "https://www.takka.house"
 
 title = "Takka House"
 
