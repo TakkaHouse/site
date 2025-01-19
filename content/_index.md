@@ -3,15 +3,15 @@ title = "Takka House"
 description = "Welcome to the Takka House - a community project, a home, an experiment."
 +++
 
-Welcome to the Takka House - a community project, a home, an experiment.
+Welcome to Takka House - a countryside home, a community space, an experiment.
 
-Takka is located 1,5h south-west of Berlin. Our residence is supposed to be more than just a house; we’d love for it to be a place where individuals come together to explore, connect, and thrive. We're not just roomies; we're engaging in a collective experiment of community. 
+Takka is located in Neuehütten, Wiesenburg, a small village 1,5h south-west of Berlin. This house has seen many different chapters. Once upon a time, it was a restaurant, a dance hall, a supermarket, the mayor’s office, a saw mill, and several apartments. After 1990, it stood empty for a few decades.
 
-At Takka, we embrace a sex-positive, poly and queer-friendly ethos, fostering an environment where love is celebrated beyond traditional ways.
+We are just getting started on our mission to renovate the house, dance hall, barns and outbuildings to recapture some of their former glory. While we dream of restoring the dance hall's 1920s wooden dance floor, or bring back to life the antique tiles in the kitchen, we have quite some work to do beforehand.
 
-Our home is a living experiment in building connections, dismantling stereotypes, and creating a space where everyone is free to express themselves.
+As a group of over a hundred people, we have different levels of involvement. Some live here full time. Some visit once or twice a year. Some are here regularly to enjoy the house and countryside, help with house projects, or a mixture.
 
-We believe 'home' is not just a place; it's a concept woven into the fabric of our community. 
+We combine our modern, progressive home life with a community culture of respect for individual choices and expressions of intimacy. Explicitly polyamorous and queer positive. 🏳️‍🌈
 
 ## Takka meaning
 
